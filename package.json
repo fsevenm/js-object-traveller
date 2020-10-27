@@ -1,0 +1,23 @@
+{
+  "name": "js-object-traveller",
+  "version": "1.0.0",
+  "description": "Safely play with your js object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsevenm/js-object-traveller.git"
+  },
+  "keywords": [
+    "object",
+    "object-helper"
+  ],
+  "author": "Ayub Aswad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsevenm/js-object-traveller/issues"
+  },
+  "homepage": "https://github.com/fsevenm/js-object-traveller#readme"
+}
