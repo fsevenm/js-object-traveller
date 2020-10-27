@@ -1,6 +1,6 @@
 # js-object-traveller
 
-Safely play with your object.
+Safely play with your js object.
 
 ## Install
 
