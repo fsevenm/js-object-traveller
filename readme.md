@@ -4,11 +4,25 @@ Safely play with your js object.
 
 ## Install
 
-TBD
+```sh
+npm -i js-object-traveller
+```
 
 ## Usage
 
-TBD
+### Simple usage
+```js
+import { travel } from "js-object-traveller";
+
+travel(person, "name");  // return empty string if no prop "name"
+```
+
+### Simple usage with custom fallback
+```js
+import { travelOr } from "js-object-traveller"
+
+travelOr("No name", person, "name");  // return "No name" if no prop "name"
+```
 
 ## Contributing
 
