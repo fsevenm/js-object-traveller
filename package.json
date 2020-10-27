@@ -1,6 +1,6 @@
 {
   "name": "js-object-traveller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Safely play with your js object.",
   "main": "index.js",
   "scripts": {
